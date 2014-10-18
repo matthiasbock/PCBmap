@@ -1,0 +1,20 @@
+rect.pcbmap-component
+{
+    fill: #ffffff;
+    fill-opacity: 0.14;
+    stroke: #d03adf;
+    stroke-width: 9.19999981;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 4;
+    stroke-opacity: 1;
+    stroke-dasharray: none;
+    stroke-dashoffset: 0;
+    cursor: pointer;
+    transition: fill-opacity 0.3s ease-in-out;
+}
+
+rect.pcbmap-component:hover
+{
+    fill-opacity: 0.5;
+}

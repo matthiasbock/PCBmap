@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="pcbmap.css" ?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1808"
+   height="2227"
+   id="board0"
+   version="1.1">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(347.80466,470.46725)">
+    <image
+       y="-470.46725"
+       x="-347.80466"
+       id="image2993"
+       xlink:href="Scan0410.jpeg"
+       height="2227"
+       width="1808" />
+    <rect
+       id="component0"
+       class="pcbmap-component pcbmap-integrated-circuit"
+       width="307"
+       height="310"
+       x="-160.80466"
+       y="-202.46725"
+       pcbmap-manufacturer="Altera"
+       pcbmap-model="EPF10K10QC208-4"
+       pcbmap-function="Programmable Logic"
+       pcbmap-datasheet-model="EPF10K"
+       pcbmap-product-page="http://www.altera.com/products/devices/flex10k/f10-index.html"
+       pcbmap-datasheet-uri="http://www.altera.com/literature/ds/archives/dsf10k.pdf"
+       />
+  </g>
+</svg>
