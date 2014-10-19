@@ -13,8 +13,8 @@
    height="2227"
    id="board0"
    version="1.1">
-    <script xlink:href="jquery.js"></script>
-    <script xlink:href="pcbmap.js"></script>
+    <script src="jquery.js"></script>
+    <script type="application/ecmascript" src="pcbmap.js"></script>
   <defs
      id="defs4" />
   <metadata

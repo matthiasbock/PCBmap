@@ -1,0 +1,2 @@
+
+$('rect.pcbmap-component').remove();
